@@ -1,0 +1,42 @@
+body{
+    background-color: lightblue;
+}
+
+.tabla {
+    background-color: lightgreen;
+    border: 2px solid black;
+    text-align: center;
+    table-layout: fixed;
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+
+th {
+    padding: 25px 20px;
+    font-size: 1.8em;
+    border-bottom: 2px solid black;
+}
+
+tr {
+    padding: 20px 15px;
+    border-bottom: 2px solid black;
+}
+
+td {
+    padding: 15px 10px;
+    font-size: 1.3em;
+}
+
+h1{
+    text-align: center;
+    font-size: 2.8em;
+}
+
+.contenido {
+    text-align: center; 
+}
+
+.contenido img {
+    display: inline-block;
+    max-width: 100%; 
+}
